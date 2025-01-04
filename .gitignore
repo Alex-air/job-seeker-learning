@@ -1,0 +1,11 @@
+# Exclude curl parameters file
+linkedin_curl
+
+# Exclude all HTML job files
+all_jobs_html/*
+
+# Exclude application CSV files
+applications_csv/*
+
+# Exclude CSV files in the root folder
+*.csv
